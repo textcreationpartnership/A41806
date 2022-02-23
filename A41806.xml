@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to the foregoing letter, being an answer to Mr. Humphrey Hody's Letter concerning the canons at the end of the Baroccian Manuscript.</title>
+            <author>Grascome, Samuel, 1641-1708?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41806</idno>
+            <idno type="STC">Wing G1567A</idno>
+            <idno type="STC">ESTC R217988</idno>
+            <idno type="EEBO-CITATION">99829617</idno>
+            <idno type="PROQUEST">99829617</idno>
+            <idno type="VID">34058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2006:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to the foregoing letter, being an answer to Mr. Humphrey Hody's Letter concerning the canons at the end of the Baroccian Manuscript.</title>
+                  <author>Grascome, Samuel, 1641-1708?</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to Samuel Grascombe.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signature A4 blank.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hody, Humphrey, 1659-1707. --  A letter from Mr. Humphry Hody, to a friend --  Early works to 1800.</term>
+               <term>Grascome, Samuel, 1641-1708? --  Farther account of the Baroccian manuscript, lately published at Oxford --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:34058:1"/>
+            <head>An Appendix to the foregoing Letter, being an Anſwer to Mr. <hi>Humphrey Hody</hi>'s Letter, concerning the Canons at the end of the <hi>Baroccian Manuſcript.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Eſſe poſſe uno in loco aliquis exiſtimat aut multos Paſtores aut plures Greges?</hi>
+                  </p> 
+                  <bibl>Cyprian <hi>de <g ref="char:V">Ʋ</g>nitate Eccleſiae,</hi> p. 110.</bibl>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Lingua Chriſtum confeſſa non ſit maledica, non convitiis &amp; litibus perſtrepens audiatur; non contra Fratres, &amp; Dei Sacerdotes poſt verba laudis Scrpentis venena jaculetur,</hi>
+                  </p> 
+                  <bibl>p. 118.</bibl>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu will readily believe me, when I tell you the read<g ref="char:EOLhyphen"/>ing of your <hi>Letter</hi> gave me unaccountable delight; The clean <hi>Conceits,</hi> various <hi>Inventions,</hi> ſmooth <hi>Stile,</hi> pat <hi>Similes,</hi> juſt <hi>Al<g ref="char:EOLhyphen"/>legories,</hi> and ſparkling <hi>Strictures</hi> could do no leſs; and you are too well acquainted with the force of your own performance, and my <hi>Sincerity,</hi> to think I have either need or deſign to flatter: Yet to take off all doubt, I will point out ſome of thoſe par<g ref="char:EOLhyphen"/>ticulars which gave me the <hi>greateſt</hi> ſatisfaction; and if I now and then ſeem to <hi>laugh</hi> a little, pray conſider, that great Pleaſures are not <hi>ſoon</hi> quiet: Paſſions are like Waters, raiſe them once, and the Motion continues, tho' the Cauſe be over.</p>
+            <p>I muſt confeſs when in your Pre<g ref="char:EOLhyphen"/>face to the publiſhed <hi>MSS.</hi> you had put your ſelf amongſt the <hi>Ne<g ref="char:EOLhyphen"/>thenims,</hi> the hewers of Wood and drawers of Water for the Sanctuary, I ſcarce knew my Friend in ſo humble and ſo <hi>unſeaſonable</hi> a figure; but now you pleaſe to aſſume <hi>Characters</hi> more agreeable to your worth, I can ſee the Generous and the Brave in the habit of a <hi>Wreſtler</hi> or <hi>Champion</hi> for the Church, which under that of a <hi>Tankard-bearer</hi> lay too much, and too dangerouſly obſcur'd.</p>
+            <p>In the ſecond Page you enter the <hi>Ring;</hi> Nature hath given you
+<pb n="2" facs="tcp:34058:2"/>
+Muſcles and ſtrength enough, and every way fitted your Perſon for the <hi>Belt;</hi> but, Sir, you muſt give me leave to ſay, that you are not skilled in the Terms and Expreſſions of the Field: For none ever con<g ref="char:EOLhyphen"/>jectured he had given his Adverſa<g ref="char:EOLhyphen"/>ry a fall by the <hi>dirtineſs</hi> of his hands; indeed that may <note place="margin">
+                  <hi>Pag.</hi> 2.</note> prove he hath over-weigh<g ref="char:EOLhyphen"/>ed, and thruſt him down on his Face by <hi>Brute</hi> ſtrength; but believe me, dear Sir, a <hi>fall</hi> comes from a neat Trip, and is always on the Back. Beſides 'tis not fair to chooſe a <hi>Dunghill</hi> to wreſtle on, and then complain your Adverſary hath be<g ref="char:EOLhyphen"/>ſpattered you. Perhaps there were never ſuch <hi>foul</hi> Examples as the wretched Scribler of your Treatiſe hath put together; and I am ſure a Man cannot ſtir in them without kicking up a <hi>Lye,</hi> a <hi>Forgery, Idolatry,</hi> or <hi>Treaſon</hi> in your Face. Of all this I gave you early notice, and had not the Letter been intercepted, I am ſure you would not have thought that <hi>Fort</hi> impregnable, one Stone of which I had not left upon ano<g ref="char:EOLhyphen"/>ther; nor miſtaken, for old <hi>truſty Veterans,</hi> ſuch raw, undiſci<g ref="char:EOLhyphen"/>plin'd, new raiſed, unarm<g ref="char:EOLhyphen"/>ed <note place="margin">
+                  <hi>Pag.</hi> 3.</note> 
+               <hi>Phantaſms,</hi> which were too empty either to defend or to aliright.</p>
+            <p>Again, you conjecture by your Adverſary's <hi>Paſſion,</hi> that he had a Fall; This was a very unlucky gueſs, when you was about to ſhow <hi>ſo much</hi> your ſelf: <hi>Rapparces, Stabbers to the Heart,</hi> and <note place="margin">
+                  <hi>Pag.</hi> 2.</note> 
+               <hi>Kno<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kers on the Head</hi> are no very temperate and cool Words, e<g ref="char:EOLhyphen"/>ſpecially when beſtowed on Per<g ref="char:EOLhyphen"/>ſons of <hi>Exemplary Humility,</hi> and <hi>known</hi> Meekneſs. But, <hi>Sir,</hi> you may remember who formerly called you <hi>Feroculus;</hi> but ſince you have taken ſome Degrees, and are commenced <hi>Ferociſfimus,</hi> as a learned man ſaid when he read your Letter. In ſhort, <hi>Sir,</hi> if not only foul Hands, but a dirty Mouth, and a Heart full of Paſſion will prove a <hi>Foil;</hi> I am affraid you miſtook the Perſon, and thought your Adverſary ſuf<g ref="char:EOLhyphen"/>fered that diſaſter which fell upon your ſelf. But ſince you are plen<g ref="char:EOLhyphen"/>tifully <hi>beſpattered</hi> with Dirt, you intend to rub it off; <note place="margin">
+                  <hi>Pag.</hi> 3.</note> 'Tis a <hi>cleanly</hi> deſign, for which I heartily thank you, for ſince I muſt be ſome time in your Com<g ref="char:EOLhyphen"/>pany, I would have it as <hi>inoffenſive</hi> as I can: and therefore having ta<g ref="char:EOLhyphen"/>ken leave of theſe <hi>filthy</hi> Metaphors, I hop'd in plain cleanly <hi>Engliſh</hi> to underſtand the Cauſe of your pre<g ref="char:EOLhyphen"/>ſent Concernment: But I am no ſooner out of the <hi>Mire</hi> than I am thruſt into the <hi>Smoke;</hi> After <hi>Dirt</hi> fly Squibbs and <hi>Crack<g ref="char:EOLhyphen"/>ers,</hi> 
+               <note place="margin">
+                  <hi>Pag.</hi> 4.</note> of an Ancient Inventi<g ref="char:EOLhyphen"/>on, and ſuch as were thrown by the <hi>Philiſtines</hi> heretofore. The next time you enter into Controverfie, let me beg you to <hi>keep down</hi> your Imagi<g ref="char:EOLhyphen"/>nation, and not think a little <hi>Pen<g ref="char:EOLhyphen"/>duel</hi> to be a <hi>War;</hi> and then we ſhall hear leſs of <hi>Mines, Forts, Powder,</hi> and old <hi>Soldiers,</hi> and write and read with leſs danger than we now
+<pb n="3" facs="tcp:34058:2"/>
+do: Though I muſt confeſs it were ingenious (as you told a Friend of yours) to uſe <hi>Military</hi> Expreſſi<g ref="char:EOLhyphen"/>ons when you was writing about <hi>Canons.</hi>
+            </p>
+            <p>But now the Air clears again, and I begin to ſee the Cauſe of your diſquiet: <hi>Pag.</hi> 4. you are accuſed for not publiſhing the <hi>Canons</hi> which are written in the very ſame Hand, and with the ſame Ink in which the publiſht <hi>MS.</hi> is written, and immediately ſubjoyned to the <hi>MS.</hi> in the ſame page, without any mark of diſtinction; and therefore by the <hi>Author</hi> of that Treatiſe deſignedly added to it. Theſe <hi>Canons</hi> no way favour the deſign which you had in publiſhing that <hi>MS.</hi> (ſome of them expreſly forbidding any Man to ſe<g ref="char:EOLhyphen"/>parate from a Biſhop, unleſs depri<g ref="char:EOLhyphen"/>ved by the Sentence of a <hi>Synod,)</hi> and therefore were purpoſely omit<g ref="char:EOLhyphen"/>ted</p>
+            <p>To this Charge you reply: The <hi>Canons</hi> were not collected, nor joyned to the Treatiſe <note place="margin">
+                  <hi>Pag.</hi> 4.</note> by the Writer of it; and give theſe <hi>Reaſons. 1ſt,</hi> You never thought they were, pag. 4. <hi>2dly,</hi> 'Tis poſſible the Storys &amp; the <hi>Canons</hi> may be collected by two different Perſons, though afterward they may be both tranſcribed by the ſame Hand, pag. 5. <hi>3dly,</hi> The Treatiſe hath a peculiar Concluſion of its own, p. 6. <hi>4thly,</hi> Between the Treatiſe and the Canons there comes in an Abſtract or Summary of the Treatiſe, which ſtands as it were for an <hi>Index,</hi> p. 7. <hi>5thly,</hi> The writer of the Treatiſe makes no mention of the <hi>Canons,</hi> never re<g ref="char:EOLhyphen"/>fers to them; and therefore can<g ref="char:EOLhyphen"/>not be ſuppoſed to have collected and ſubjoyned them to the Trea<g ref="char:EOLhyphen"/>tiſe, p. 7. And <hi>6thly,</hi> The Canons are not truly pertinent to the par<g ref="char:EOLhyphen"/>ticular ſubject of the Treatiſe, pag. 9.</p>
+            <p>Theſe you look upon to be <hi>un<g ref="char:EOLhyphen"/>anſwerable</hi> Evidences, both of your <hi>Innocence,</hi> and your <hi>Cauſe</hi> too; and ſufficient proofs, that the Compiler of the <hi>Stories</hi> was not the Collector of the <hi>Canons:</hi> Upon the ſtrength of theſe you riſe high, deſpiſe the Judgments, and contemn the <hi>Rea<g ref="char:EOLhyphen"/>ſonings</hi> of other Men; nor is this Preſumption unnatural in him who can miſtake <hi>Falſehood</hi> for <hi>Integrity,</hi> and call <hi>Trifles</hi> Demonſtrations. This way of <hi>Writing,</hi> Sir, is no more <hi>Arguing</hi> than <hi>Stammering</hi> is Speaking; 'tis only a weak imper<g ref="char:EOLhyphen"/>fect endeavour after it, but ſuch as <hi>diſgraces</hi> what it would imitate.</p>
+            <p>For ſuppoſe, when you firſt tran<g ref="char:EOLhyphen"/>ſcribed that Treatiſe, you did not think the Writer added the <hi>Canons</hi> to it; yet before the <hi>Gr.</hi> and <hi>Lat. Edition</hi> you was ſufficiently inform<g ref="char:EOLhyphen"/>ed of other Men's Opinions, which 'tis eaſier to <hi>deſpiſe</hi> than to confute. Why then were they concealed, unleſs you found it neceſſary to deal with your <hi>Author</hi> as <hi>Painters</hi> do with a Face with <hi>one</hi> Eye? They ſhow only the <hi>ſound</hi> ſide. The <hi>Sto<g ref="char:EOLhyphen"/>ries</hi> lookt plaufible enough, but in the <hi>Canons</hi> there was ſome thing ſo diſagreeable, that it was con<g ref="char:EOLhyphen"/>venient
+<pb n="4" facs="tcp:34058:3"/>
+it ſhould be hid.</p>
+            <p>Again, ſuppoſe it poſſible that the <hi>Canons</hi> might be added by <hi>ano<g ref="char:EOLhyphen"/>ther</hi> Hand; let me beg you not to conclude they were, for fear of two or three old <hi>Logical</hi> Maxims, which will grow very <hi>teſty,</hi> if they once perceive their Authority con<g ref="char:EOLhyphen"/>temned. Your third and fourth Reaſon only prove that your <hi>Au<g ref="char:EOLhyphen"/>thor's</hi> Conſcience began to ſtare him in the Face, and his <hi>Reading</hi> was at an end: that as he could <hi>find</hi> none, ſo he would <hi>forge</hi> no more Examples. But your fifth and ſixth Reaſon, I muſt confeſs, would ſeem to conclude ſomewhat, had your Author been a Man of any <hi>tolerable</hi> ſenſe: But when I conſider how <hi>injudiciouſly</hi> he hath put his Tales together, and how <hi>impertinent</hi> many of them are to that purpoſe for which he hath made them, I can think no proceeding that is idle, unaccountable, and fooliſh, too mean for him, or diſ<g ref="char:EOLhyphen"/>agreeable to his Character.</p>
+            <p>But to draw this whole <hi>trifling Con<g ref="char:EOLhyphen"/>troverſie</hi> into a narrow compaſs, 'tis evident from <hi>Cotelerius,</hi> that when one <hi>Joſeph</hi> was put into the Throne of a Biſhop unjuſtly depoſed, many refuſed to communicate with him; The Compoſer of this Treatiſe endeavours to reduce the Refuſers by the Examples of ſome Great Men, who upon the like occaſions did not think it lawful to with<g ref="char:EOLhyphen"/>draw. But leſt bare <hi>Story-telling</hi> ſhould not do the work, he produ<g ref="char:EOLhyphen"/>ceth <hi>Canons</hi> which peremptorily forbid any ſeparation from a <hi>Biſhop:</hi> by theſe he endeavours to ſupport the Chair of the Biſhop in <hi>poſſeſſion:</hi> and thus having Example backt by Precept, he thinks the Refuſers muſt be conſtrained to a ſubmiſſion: This proceeding is natural enough, there is nothing of force in it; and when I find any thing at the end of a <hi>Treatiſe</hi> written in the ſame Hand, immediatly ſubjoyned to it; which carries no mark of <hi>another</hi> Author, and is agreeable to the Age, and ſerviceable to the <hi>main</hi> drift and deſign of the Compoſer of the Treatiſe, I muſt think it ad<g ref="char:EOLhyphen"/>ded by the ſame Author, unleſs you pleaſe to furniſh me with a Reaſon to the <hi>contrary,</hi> better than any I have yet met with. Indeed you pretend to offer <hi>one,</hi> when you obſerve the Author uſes his <hi>own</hi> Language in the <hi>Stories,</hi> but <hi>tran<g ref="char:EOLhyphen"/>ſcribes</hi> the very Words of the <hi>Canons,</hi> pag. 7. But pray, <hi>Sir,</hi> is it unuſual, or is it not neceſſary to cite the <hi>very Words</hi> of Laws? Your Author might make <hi>Stories,</hi> but ſure he was not conſiderable enough to be a <hi>Canon-maker;</hi> and therefore was bound to thoſe Ex<g ref="char:EOLhyphen"/>preſſions in which Authority had put them. And your obſervation, that the Author always uſes his <hi>own Stile</hi> in the <hi>Stories,</hi> ſhows you have not yet had leaſure to com<g ref="char:EOLhyphen"/>pare them with the Books out of which ſome part of them is ta<g ref="char:EOLhyphen"/>ken.</p>
+            <p>
+               <pb n="5" facs="tcp:34058:3"/>
+And now, <hi>Sir,</hi> having conſider<g ref="char:EOLhyphen"/>ed all you have to ſay about the Canons, you muſt excuſe me from attending on your Triumph, in which you ſo indecently lead a very great Man, (the ſame who gave you In<g ref="char:EOLhyphen"/>formation <note place="margin">
+                  <hi>Pag.</hi> 8. <hi>&amp;</hi> 15.</note> of every thing you know concerning this <hi>M S.)</hi> who fell into an unconſiderable miſtake, which yet he hath rectified in his anſwer to your Book, only be<g ref="char:EOLhyphen"/>cauſe he had not leiſure to be ac<g ref="char:EOLhyphen"/>curate about Trifles: for the way which you go is too foul for me to wait upon you in. Yet Curio<g ref="char:EOLhyphen"/>ſity will force me as far as your <hi>enchanted Caſtle,</hi> pag. 19. to ſee the Iſſue of that notable Adventure. But here all my Expectation is quite daſht: for when I thought to find the <hi>Knight</hi> armed, mounting the Ramparts, and breaking down the Walls, Modeſty comes on, turns him into a <hi>Pioneer,</hi> and ſets him to caſt up <hi>Works</hi> to encloſe a <hi>SPIRIT,</hi> as wiſe a deſign as theirs was who hedg'd about a <hi>Cuck<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow.</hi>
+            </p>
+            <p>To be ſerious. An Acquain<g ref="char:EOLhyphen"/>tance of mine bids me tell you, your <hi>Guantelet</hi> is taken up, not by a <hi>Party,</hi> but a <hi>Single</hi> Perſon; and your Challenge is accepted: He hopes you will obſerve the Laws of Combat, and not bring any <hi>Spells, Charms,</hi> or unlawfull <hi>Weapons</hi> into the Field: (to ſpeak out of Metaphor) that you will be <hi>plain, Civil</hi> and <hi>Even</hi> in your Writing; That you would leave your Intri<g ref="char:EOLhyphen"/>cate Allegories, your Pride and Inſolence behind you; and not in<g ref="char:EOLhyphen"/>decently fall out of fits of <hi>Rai<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing</hi> into as violent ones of <hi>Prayer:</hi> but diſpute like a Scholar, and like a Chriſtian.</p>
+            <p>He deſires likewiſe you would not produce ſuch Examples, as that <hi>repeated</hi> one of <hi>Photius,</hi> pag. 17. nor conclude that <hi>Conſtantine</hi> did not deſign to baniſh <hi>Athanaſius</hi> for his Life, becauſe he afterward repent<g ref="char:EOLhyphen"/>ed he had baniſht him at all, pag. 23. To ſuch Inſtances and ſuch Con<g ref="char:EOLhyphen"/>cluſions he will think it ſufficient to reply, that they ought not to be <hi>made</hi> or <hi>produced</hi> by any Man of Ho<g ref="char:EOLhyphen"/>nour, Integrity, or Senſe.</p>
+            <p>If you grant him theſe few rea<g ref="char:EOLhyphen"/>ſonable Requeſts, he is very ready to engage upon the <hi>Principles</hi> of St. <hi>Cyprian,</hi> and the <hi>Practice</hi> of that Age; and to make ſhort work of the <hi>Controverſie,</hi> thus ſtates it from matter of fact: But I need go no further, you are a wiſe man, and this <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is enough for you to gueſs, how I would ſtate it; and you may do it with more ſafety than I can: but if you know not what I mean, conſelt the <note n="*" place="margin">
+                  <hi>This was no legal Re<g ref="char:EOLhyphen"/>peal, becauſe</hi> Edward <hi>the</hi> 2d <hi>was alive, and lawful</hi> King, <hi>or elſe</hi> Edward <hi>the</hi> 3d <hi>could never have been ſo) in the time of that firſt Par<g ref="char:EOLhyphen"/>liament of</hi> Edward <hi>the</hi> 3d, <hi>and conſequently</hi> Edward <hi>the</hi> 3d <hi>was at that time</hi> an Uſur<g ref="char:EOLhyphen"/>per, and the Proceedings of that Parliament null and void.</note> 
+               <hi>85th page</hi> of the? <hi>Grand Queſtion,</hi> and then gueſs how I would ſtate it, and the matter of fact being ſo ſtated, then let the Que<g ref="char:EOLhyphen"/>ſtion
+<pb n="6" facs="tcp:34058:4"/>
+be; <hi>Whether the Expulſion of the Biſhops, and the placing of new ones in their Sees, by an Act of State, and without a Synodical Sentence, for not taking ſuch New Oaths, be not Schiſ<g ref="char:EOLhyphen"/>matical?</hi> The Caſe is truly what I dare but hint to you, and you may begin the Diſpute as ſoon as you pleaſe; provided you procure us the ſame freedom and ſafety to an<g ref="char:EOLhyphen"/>ſwer fully to the point, as you take to Challenge and Object.</p>
+            <p>And before (to uſe your modiſh Phraſe) I ſubſcribe a <hi>Vale,</hi> I muſt beg you to paſs by <hi>one</hi> ſmall Miſtake in my <hi>laſt</hi> Letter (if ever it comes to your Hands) about <hi>Joſeph</hi> the Presbyter, which yet I think I have corrected in the Margent; and in requital I ſhall take no notice of <hi>twenty</hi> greater in yours. I ſhall not examine your Criticiſm about <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor tell the World you produce, p. 43. for your own Read<g ref="char:EOLhyphen"/>ing what you gather up from <hi>Co<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>lerius</hi>'s Obſervation. And beſides all this, I ſhall own the Obligation, admire this ſingle Inſtance of good Nature and Condeſcention, and continue</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Jan. 1ſt.</hi> 1691.</date>
+               </dateline>
+               <signed>Your Faithful Friend and Moſt Humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34058:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
